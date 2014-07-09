@@ -1,7 +1,7 @@
 prompt
 ======
 
-A awesome node app that does the following:
+An awesome node app that does the following:
 
 - Name
 - Dog age conversion
